@@ -1,0 +1,3 @@
+/home/matmir/KlassWork/kw1/build/build/CMakeFiles/edit_cache.dir
+/home/matmir/KlassWork/kw1/build/build/CMakeFiles/rebuild_cache.dir
+/home/matmir/KlassWork/kw1/build/build/CMakeFiles/program.dir
