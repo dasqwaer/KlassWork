@@ -1,3 +1,3 @@
 project (kw3)
 cmake_minimum_required(VERSION 3.12)
-add_executable(main main.cpp)
+add_executable(main foo.cpp main.cpp)
