@@ -1,3 +1,3 @@
 project (hw3)
-cmake_minimun_required(VERSION 3.12)
-and_executeble(main main.cpp)
+cmake_minimum_required(VERSION 3.12)
+and_executable(main main.cpp)
